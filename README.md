@@ -1,5 +1,5 @@
 # MatFileViewer
-This is a simple viewer to view the Mat file without MATLAB.
+This is a simple GUI viewer to view the binary MATLAB files (.mat) without MATLAB.
 
 **This software supports reading 1D and 2D mat files, but does not support 3D data.**
 
