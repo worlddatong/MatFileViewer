@@ -25,5 +25,5 @@ MatFileViewer requires:
 Just run MatFileViewer.exe (only for windows x64).
 
 ## Download
-- Script
-- EXE
+- [Python Script](https://github.com/worlddatong/MatFileViewer/blob/main/Script/MatFileViewer.py)
+- [MatFileViewer.exe](https://github.com/worlddatong/MatFileViewer/releases/tag/1.0)
