@@ -8,7 +8,8 @@ This is a simple viewer to view the Mat file without MATLAB.
 1. Users can use MatFileViewer by running python script or exe (only for windows x64)
 2. In the GUI, select the .mat file and view the data.
 
-
+![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/1.png)
+![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/2.png)
 
 ## Python script
 Run MatFileViewer.py and select mat file.
