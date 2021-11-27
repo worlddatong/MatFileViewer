@@ -17,7 +17,7 @@ Here is an example of  [three_mat.mat](https://github.com/worlddatong/MatFileVie
 3. Choose the variable you want to view if the mat file contains multiple variables.
 
 ![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/4.png)
-![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/5.png)
+![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/6.png)
 
 ## Python script
 Run MatFileViewer.py in a Python environment .
