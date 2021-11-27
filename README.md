@@ -13,6 +13,7 @@ So I write MatFileViewer to view the mat file.
 
 1. Users can use MatFileViewer by running python script or executable  (only for windows x64)
 2. In the GUI, click the button "Load mat" and choose the variable mat you want to view.
+3. Here is an example of  [three_mat.mat](https://github.com/worlddatong/MatFileViewer/blob/main/TestData/three_mat.mat) which contains a, b and c variables.
 
 ![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/4.png)
 ![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/5.png)
