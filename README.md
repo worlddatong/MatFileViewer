@@ -1,4 +1,5 @@
 # MatFileViewer
+![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/3.png)
 
 This is a simple GUI viewer to view the binary MATLAB files (.mat) without MATLAB.
 
