@@ -11,8 +11,8 @@ So I write MatFileViewer to view the mat file.
 
 ## How to use it
 
-1. Users can use MatFileViewer by running python script or exe (only for windows x64)
-2. In the GUI, select the .mat file and view the data.
+1. Users can use MatFileViewer by running python script or executable  (only for windows x64)
+2. In the GUI, click the button "Load mat" and choose the variable mat you want to view.
 
 ![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/1.png)
 ![](https://github.com/worlddatong/MatFileViewer/blob/main/imgs/2.png)
@@ -28,7 +28,7 @@ MatFileViewer requires:
 - wxPython
 --------------------------
 
-## EXE
+## Executable 
 Just run MatFileViewer.exe (only for windows x64).
 
 ## Download
